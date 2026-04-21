@@ -1,6 +1,6 @@
 # Hi, I'm Shiva 👋
 
-🎓 AI Researcher | Numerical Analysis, Dynamical Systems & Scientific Computing  
+🎓 AI & Scientific Computing Researcher | Numerical Methods for Dynamical Systems and Delay Differential Equations
 📊 Focused on AI-driven modeling, scientific machine learning, and computational methods for complex systems
 ---
 
@@ -23,11 +23,14 @@
 ---
 
 ## 🚀 Featured Project
+
 🔗 [Volterra Delay Equations Project](https://github.com/Shiva-Karimi-research/volterra-delay-equations)
-volterra-delay-equations)
-- Collocation-based numerical method
-- Convergence & error analysis
-- Wolfram Mathematica implementation
+
+📌 Focus: Numerical analysis of delay differential equations using collocation-based methods
+
+- Collocation-based numerical method  
+- Convergence & error analysis  
+- Wolfram Mathematica implementation  
 - Applications in AI and dynamical modeling
 
 ---
