@@ -49,7 +49,3 @@
 
 ## 🎯 Research Direction
 Interested in developing AI-driven numerical methods for dynamical and time-delay systems, with applications in scientific machine learning and complex system modeling.
-
----
-
-⭐ Interested in bridging mathematical theory with AI to develop robust and scalable computational models.
