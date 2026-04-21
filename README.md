@@ -14,8 +14,16 @@
 
 ---
 
+## 🔹 Key Contributions
+- Developed a collocation-based solver for Volterra delay differential equations  
+- Performed convergence and error analysis across varying delay parameters  
+- Implemented numerical schemes in Wolfram Mathematica  
+- Explored applications in AI-driven modeling and dynamical systems
+  
+---
+
 ## 🚀 Featured Project
-🔹 [Volterra Delay Equation Solver](https://github.com/Shiva-Karimi-research/
+🔗 [Volterra Delay Equations Project](https://github.com/Shiva-Karimi-research/volterra-delay-equations)
 volterra-delay-equations)
 - Collocation-based numerical method
 - Convergence & error analysis
