@@ -24,7 +24,7 @@
 
 ## 🚀 Featured Project
 
-🔗 [🔗 Volterra Delay Differential Equations Solver](https://github.com/Shiva-Karimi-research/volterra-delay-equations)
+🔗 [🔗 Volterra Delay Differential Equations Solver](https://github.com/Shiva-Karimi-research/numerical-analysis-of-volterra-delay-equations)
 
 📌 Focus: Collocation-based numerical analysis of Volterra delay differential equations with convergence and error guarantees
 - Collocation-based numerical method  
