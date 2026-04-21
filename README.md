@@ -46,8 +46,7 @@
 
 ## 📫 Contact
 - Email: shiva.karimi1221@gmail.com
-- LinkedIn: (add later)
-- ORCID: (optional)
+- LinkedIn: (https://www.linkedin.com/in/shiva-karimi-research?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
