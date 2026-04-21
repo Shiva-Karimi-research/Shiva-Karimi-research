@@ -1,8 +1,6 @@
 # Hi, I'm Shiva 👋
 
-🎓 AI & Scientific Computing Researcher | Numerical Methods for Dynamical Systems and Delay Differential Equations
-📊 Focused on AI-driven modeling, scientific machine learning, and computational methods for complex systems
----
+🎓Mathematical Modeling | Scientific Computing | Transitioning to AI Systems
 
 ## 🔬 Research Interests
 - Artificial Intelligence & Machine Learning
