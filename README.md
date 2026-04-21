@@ -1,8 +1,7 @@
 # Hi, I'm Shiva 👋
 
-🎓 AI & Computational Modeling Enthusiast  
-📊 Focused on Numerical Analysis, Dynamical Systems, and Scientific Computing  
-
+🎓 AI Researcher | Numerical Analysis, Dynamical Systems & Scientific Computing  
+📊 Focused on AI-driven modeling, scientific machine learning, and computational methods for complex systems
 ---
 
 ## 🔬 Research Interests
@@ -25,29 +24,32 @@
 
 ---
 
-## 🧠 Skills
+🧠 Mathematical & Computational Foundations
+- Numerical Analysis & Error Estimation
+- Stability & Convergence Theory
+- Dynamical Systems & Continuous-Time Modeling
 
-### 🔹 Mathematical & Computational Foundations
-- Numerical Analysis and Error Estimation  
-- Dynamical Systems and Continuous-Time Modeling  
-- Stability and Convergence Analysis  
+🤖 AI & Machine Learning Methods
+- Scientific Machine Learning (SciML)
+- Optimization Algorithms in Machine Learning
+- Data-Driven & Physics-Informed Modeling
 
-### 🔹 AI-Oriented Methods
-- Scientific Machine Learning (SciML)  
-- Optimization in Machine Learning  
-- Data-Driven and Physics-Informed Modeling  
-
-### 🔹 Tools & Implementation
-- Wolfram Mathematica (Advanced)  
-- Python (Scientific Computing Stack)  
-- Algorithm Development and Simulation
+⚙️ Technical Tools
+- Wolfram Mathematica (Advanced)
+- Python (NumPy, SciPy, Scientific Computing)
+- Algorithm Design & Numerical Simulation
 
 ---
 
 ## 📫 Contact
 - Email: shiva.karimi1221@gmail.com
-- LinkedIn: (https://www.linkedin.com/in/shiva-karimi-research?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- LinkedIn: (https://www.linkedin.com/in/shiva-karimi-research)
 
 ---
 
-⭐ Always exploring the intersection of mathematics, computation, and intelligent systems.
+## 🎯 Research Direction
+Interested in developing AI-driven numerical methods for dynamical and time-delay systems, with applications in scientific machine learning and complex system modeling.
+
+---
+
+⭐ Interested in bridging mathematical theory with AI to develop robust and scalable computational models.
