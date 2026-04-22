@@ -7,7 +7,7 @@
 - Scientific Machine Learning & Data-Driven Modeling
 - Dynamical Systems and Continuous-Time Models
 - Optimization Methods in Learning Algorithms
-- Temporal and Delay-Based Modeling in AI Systems
+- Temporal and Delay-Based Modeling for Learning Systems
 - Computational Methods for Intelligent Systems
 
 ---
@@ -16,7 +16,7 @@
 - Developed a collocation-based solver for Volterra delay differential equations  
 - Performed convergence and error analysis across varying delay parameters  
 - Implemented numerical schemes in Wolfram Mathematica  
-- Explored applications in AI-driven modeling and dynamical systems
+- Explored potential connections to learning-based modeling and dynamical systems
   
 ---
 
