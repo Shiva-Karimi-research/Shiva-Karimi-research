@@ -3,7 +3,7 @@
 🎓Mathematical Modeling | Scientific Computing | Transitioning to AI Systems
 
 ## 🔬 Research Interests
-- Artificial Intelligence & Machine Learning
+- Mathematical Foundations of Artificial Intelligence and Machine Learning
 - Scientific Machine Learning & Data-Driven Modeling
 - Dynamical Systems and Continuous-Time Models
 - Optimization Methods in Learning Algorithms
@@ -28,7 +28,7 @@
 - Collocation-based numerical method  
 - Convergence & error analysis  
 - Wolfram Mathematica implementation  
-- Applications in AI and dynamical modeling
+- Potential relevance to optimization and learning-based dynamical modeling
 
 ---
 
@@ -56,4 +56,4 @@
 ---
 
 ## 🎯 Research Direction
-Interested in developing AI-driven numerical methods for dynamical and time-delay systems, with applications in scientific machine learning and complex system modeling.
+Interested in developing mathematically grounded computational methods with potential applications in scientific machine learning and complex dynamical systems
